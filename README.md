@@ -2,7 +2,7 @@
 
 _¡Felicidades, has terminado el curso! ✅_
 
-<img src=octobiwan.jpg alt=Obi-Wan height=200 align=right>
+<img src=https://github.com/ximyer/prueba-final/blob/carpetas/archivos-ximyer/imagenes-octocat/octobiwan.jpg alt=Obi-Wan height=200 align=right>
 
 ¡Hola! Si llegaste a este Repositorio, ¡yaaay! has realizado tu primera búsqueda en GitHub con éxito y Octobiwan está súper orgulloso. He aquí una imagen suya. 😼
 
